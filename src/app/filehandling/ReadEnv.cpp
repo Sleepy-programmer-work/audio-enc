@@ -5,7 +5,7 @@
 #include <cctype>
 
 ReadEnv::ReadEnv() : env_path(".env"), default_key("AudioEncryptDefault2024") {
-    // Constructor - you can customize default key here
+    // Constructor implementation (if needed)
 }
 
 std::string ReadEnv::getKey() {
